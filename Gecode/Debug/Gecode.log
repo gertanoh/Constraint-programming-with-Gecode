@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Gecode.cpp
+e:\kth\id2204\assignments\gecode\gecodetest\gecode\gecode.cpp(33): fatal error C1083: Cannot open include file: 'gecode/int.hh': No such file or directory
